@@ -1,5 +1,5 @@
-# ts-react-study
-一个简单的整合案例
+# react-ts-emitter
+react 使用 eventEmitter 通信的案例
 
 ### 安装依赖 yarn 或者cnpm install
 
